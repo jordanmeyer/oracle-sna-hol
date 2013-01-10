@@ -1,0 +1,10 @@
+
+install.packages("twitteR", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("igraph", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("sna", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("ggplot2", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("animation", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("RColorBrewer", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("plyr", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("stringr", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
+install.packages("caret", repos = "http://cran.cnr.berkeley.edu/", dependencies = TRUE)
